@@ -1,0 +1,8 @@
+SHOW TABLES;
+
+SELECT * FROM tb_usuario;
+SELECT * FROM tb_item;
+SELECT * FROM tb_bairro;
+SELECT * FROM tb_cliente;
+
+ SELECT * FROM VW_DETALHE_CLIENTE;
